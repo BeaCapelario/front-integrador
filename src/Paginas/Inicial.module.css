@@ -1,0 +1,10 @@
+.corpo {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 78.5vh;
+  background-image: url(https://i.pinimg.com/1200x/33/5e/85/335e851a550bf5c5da41255fb30a865f.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
